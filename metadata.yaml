@@ -1,5 +1,5 @@
 _repo: History-of-the-United-Netherlands-from-the-Death-of-William-the-Silent-to-the-Twelve-Year-s-Tr__4883
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,6 +28,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'DH'
 - !lcsh 'Netherlands -- History -- Eighty Years'' War, 1568-1648'
+- GITenberg
 title: History of the United Netherlands from the Death of William the Silent to the
   Twelve Year's Truce, 1609
 url: http://www.gutenberg.org/ebooks/4883
